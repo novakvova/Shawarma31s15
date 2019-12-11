@@ -77,14 +77,7 @@ export class RegisterPage extends Component {
                         type="password"
                     />
 
-                    {/* <TextFieldGroup
-                        field="password"
-                        label="Пароль"
-                        value={password}
-                        error={errors.password}
-                        onChange={this.handleChange}
-                        //type="password"
-                    /> */}
+                    
                     <div className="form-group">
                         <button className="btn btn-primary">Зареєструватися</button>
 
